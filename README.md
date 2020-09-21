@@ -2,10 +2,9 @@
 
 #### In this project, we build the kNN algorithm from scratch and implement the classifier on the fashion-MNIST dataset.
 
-<br>
-If you're interested to learn more about the fashion-MNIST dataset, feel free to visit: https://github.com/zalandoresearch/fashion-mnist
-<br>
+<br/>
 
+Feel free to learn more about the fashion-MNIST dataset at https://github.com/zalandoresearch/fashion-mnist <br/>
 
 <img src="fashion-mnist-sprite.png" width="1200" height="800">
 
