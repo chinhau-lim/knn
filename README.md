@@ -1,4 +1,4 @@
-## Build kNN from Scratch
+## kNN Classifier from Scratch
 
 #### In this project, we build the kNN algorithm from scratch and implement the classifier on the fashion-MNIST dataset.
 
