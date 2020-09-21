@@ -1,13 +1,15 @@
 ## Build kNN from Scratch
 
-In this project, we build the kNN algorithm from scratch and implement the classifier on the fashion-MNIST dataset.
+#### In this project, we build the kNN algorithm from scratch and implement the classifier on the fashion-MNIST dataset.
 
+<br>
 If you're interested to learn more about the fashion-MNIST dataset, feel free to visit: https://github.com/zalandoresearch/fashion-mnist
+<br>
 
-<img src="fashion-mnist-sprite.png" width="400" height="200">
-<img src="embedding.gif" width="400" height="200">
 
-<br/><br/>
+<img src="fashion-mnist-sprite.png" width="1200" height="800">
+
+
 In this project, we developed two different models : 
 - Model 1: with all 7 universal facial expression (Validation Accuracy = 0.64)
 - Model 2: 6 out of 7 universal facial expression - w/o disgust (Validation Accuracy = 0.62)
